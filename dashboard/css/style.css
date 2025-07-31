@@ -1,0 +1,26 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+}
+
+.logo {
+  background-image: url(https://thumbs.dreamstime.com/b/vector-image-rooster-often-ancient-bowls-indonesia-image-rooster-often-ancient-bowls-223167592.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner-img {
+  background-image: url(https://thumbs.dreamstime.com/b/vector-image-rooster-often-ancient-bowls-indonesia-image-rooster-often-ancient-bowls-223167592.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+aside {
+  align-content: center;
+  justify-items: center;
+}
